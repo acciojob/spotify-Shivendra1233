@@ -3,7 +3,6 @@ package com.driver;
 import java.util.*;
 
 import org.springframework.web.bind.annotation.*;
-
 @RestController
 @RequestMapping("spotify")
 public class SpotifyController {
